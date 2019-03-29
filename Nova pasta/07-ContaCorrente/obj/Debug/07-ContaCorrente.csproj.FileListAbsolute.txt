@@ -1,0 +1,7 @@
+C:\Users\FERNANDODASILVASALGA\source\repos\CursoCSharpPOO\07-ContaCorrente\bin\Debug\07-ContaCorrente.exe.config
+C:\Users\FERNANDODASILVASALGA\source\repos\CursoCSharpPOO\07-ContaCorrente\bin\Debug\07-ContaCorrente.exe
+C:\Users\FERNANDODASILVASALGA\source\repos\CursoCSharpPOO\07-ContaCorrente\bin\Debug\07-ContaCorrente.pdb
+C:\Users\FERNANDODASILVASALGA\source\repos\CursoCSharpPOO\07-ContaCorrente\obj\Debug\07-ContaCorrente.csprojAssemblyReference.cache
+C:\Users\FERNANDODASILVASALGA\source\repos\CursoCSharpPOO\07-ContaCorrente\obj\Debug\07-ContaCorrente.csproj.CoreCompileInputs.cache
+C:\Users\FERNANDODASILVASALGA\source\repos\CursoCSharpPOO\07-ContaCorrente\obj\Debug\07-ContaCorrente.exe
+C:\Users\FERNANDODASILVASALGA\source\repos\CursoCSharpPOO\07-ContaCorrente\obj\Debug\07-ContaCorrente.pdb
