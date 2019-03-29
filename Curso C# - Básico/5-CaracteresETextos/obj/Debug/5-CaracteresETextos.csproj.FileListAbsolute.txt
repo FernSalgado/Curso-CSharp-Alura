@@ -1,0 +1,6 @@
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.exe.config
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.exe
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.pdb
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.csproj.CoreCompileInputs.cache
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.exe
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.pdb

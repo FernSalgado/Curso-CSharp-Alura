@@ -1,0 +1,6 @@
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\7-Condicionais\bin\Debug\7-Condicionais.exe.config
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\7-Condicionais\bin\Debug\7-Condicionais.exe
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\7-Condicionais\bin\Debug\7-Condicionais.pdb
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\7-Condicionais\obj\Debug\7-Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\7-Condicionais\obj\Debug\7-Condicionais.exe
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\7-Condicionais\obj\Debug\7-Condicionais.pdb

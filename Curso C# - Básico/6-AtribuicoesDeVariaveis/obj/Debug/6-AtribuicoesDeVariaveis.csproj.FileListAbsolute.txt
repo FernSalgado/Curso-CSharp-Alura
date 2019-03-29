@@ -1,0 +1,6 @@
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\6-AtribuicoesDeVariaveis\bin\Debug\6-AtribuicoesDeVariaveis.exe.config
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\6-AtribuicoesDeVariaveis\bin\Debug\6-AtribuicoesDeVariaveis.exe
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\6-AtribuicoesDeVariaveis\bin\Debug\6-AtribuicoesDeVariaveis.pdb
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\6-AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\6-AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.exe
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\6-AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.pdb

@@ -1,0 +1,7 @@
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\3-CriandoVariaveisPontoFlutuante\bin\Debug\3-CriandoVariaveisPontoFlutuante.exe.config
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\3-CriandoVariaveisPontoFlutuante\bin\Debug\3-CriandoVariaveisPontoFlutuante.exe
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\3-CriandoVariaveisPontoFlutuante\bin\Debug\3-CriandoVariaveisPontoFlutuante.pdb
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.csprojAssemblyReference.cache
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.exe
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.pdb

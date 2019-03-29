@@ -1,0 +1,6 @@
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\9-Escopo\bin\Debug\9-Escopo.exe.config
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\9-Escopo\bin\Debug\9-Escopo.exe
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\9-Escopo\bin\Debug\9-Escopo.pdb
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\9-Escopo\obj\Debug\9-Escopo.csproj.CoreCompileInputs.cache
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\9-Escopo\obj\Debug\9-Escopo.exe
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\9-Escopo\obj\Debug\9-Escopo.pdb

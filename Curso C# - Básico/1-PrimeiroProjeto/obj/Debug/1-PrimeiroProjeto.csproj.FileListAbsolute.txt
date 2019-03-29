@@ -1,0 +1,7 @@
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.exe.config
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.exe
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.pdb
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.csprojAssemblyReference.cache
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.exe
+C:\Users\FERNANDODASILVASALGA\Downloads\csharp-parte-1-primeiros-passos-aula6\csharp-parte-1-primeiros-passos-aula6\aula6\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.pdb
