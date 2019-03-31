@@ -1,0 +1,7 @@
+C:\Users\FERNANDODASILVASALGA\Documents\GitHub\Curso-CSharp-Alura\CursoCSharp-pt3\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\FERNANDODASILVASALGA\Documents\GitHub\Curso-CSharp-Alura\CursoCSharp-pt3\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\FERNANDODASILVASALGA\Documents\GitHub\Curso-CSharp-Alura\CursoCSharp-pt3\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\FERNANDODASILVASALGA\Documents\GitHub\Curso-CSharp-Alura\CursoCSharp-pt3\ByteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
+C:\Users\FERNANDODASILVASALGA\Documents\GitHub\Curso-CSharp-Alura\CursoCSharp-pt3\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\FERNANDODASILVASALGA\Documents\GitHub\Curso-CSharp-Alura\CursoCSharp-pt3\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\FERNANDODASILVASALGA\Documents\GitHub\Curso-CSharp-Alura\CursoCSharp-pt3\ByteBank\obj\Debug\ByteBank.pdb
