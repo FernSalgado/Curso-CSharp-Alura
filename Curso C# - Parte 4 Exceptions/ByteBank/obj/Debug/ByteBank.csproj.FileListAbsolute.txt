@@ -5,3 +5,10 @@ C:\Users\ModalGR\Downloads\csharpexceptions-projetoInicial\ByteBank\obj\Debug\By
 C:\Users\ModalGR\Downloads\csharpexceptions-projetoInicial\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
 C:\Users\ModalGR\Downloads\csharpexceptions-projetoInicial\ByteBank\obj\Debug\ByteBank.exe
 C:\Users\ModalGR\Downloads\csharpexceptions-projetoInicial\ByteBank\obj\Debug\ByteBank.pdb
+C:\Users\ModalGR\Documents\GitHub\Curso-CSharp-Alura\Curso C# - Parte 4 Exceptions\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\ModalGR\Documents\GitHub\Curso-CSharp-Alura\Curso C# - Parte 4 Exceptions\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\ModalGR\Documents\GitHub\Curso-CSharp-Alura\Curso C# - Parte 4 Exceptions\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\ModalGR\Documents\GitHub\Curso-CSharp-Alura\Curso C# - Parte 4 Exceptions\ByteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
+C:\Users\ModalGR\Documents\GitHub\Curso-CSharp-Alura\Curso C# - Parte 4 Exceptions\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\ModalGR\Documents\GitHub\Curso-CSharp-Alura\Curso C# - Parte 4 Exceptions\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\ModalGR\Documents\GitHub\Curso-CSharp-Alura\Curso C# - Parte 4 Exceptions\ByteBank\obj\Debug\ByteBank.pdb
