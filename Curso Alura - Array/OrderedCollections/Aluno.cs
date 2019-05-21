@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CursoCsharpSets
+namespace OrderedCollections
 {
     class Aluno
     {
@@ -39,11 +39,11 @@ namespace CursoCsharpSets
         public override bool Equals(object obj)
         {
             Aluno outro = obj as Aluno;
-            return this.nome.Equals(outro.nome); 
+            return this.nome.Equals(outro.nome);
         }
         public override int GetHashCode()
         {
-            return this.nome.GetHashCode(); 
+            return this.nome.GetHashCode();
         }
     }
 }

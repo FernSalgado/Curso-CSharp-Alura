@@ -28,6 +28,11 @@ namespace CursoCsharpSets
 
             Console.WriteLine("Aluno com matricula 5618:");
             Console.WriteLine(csharp.buscaMatriculado(5618));
+            Console.WriteLine($"Quem possui a matricula 17645? {csharp.buscaMatriculado(17645)}");
+            Aluno novo = new Aluno("Fabio", 17645);
+            //csharp.Matricula(novo);
+            csharp.SubstituiAluno(novo);
+            Console.WriteLine($"Quem possui a matricula 17645? {csharp.buscaMatriculado(17645)}");
         }
 
         public static void TestaSets()
@@ -44,6 +49,7 @@ namespace CursoCsharpSets
             csharp.Matricula(a1);
             csharp.Matricula(a2);
             csharp.Matricula(a3);
+            csharp.Matricula(a4);
 
             foreach (var aluno in csharp.Alunos)
             {

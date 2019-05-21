@@ -41,10 +41,15 @@ namespace CursoCsharpSets
         internal void Matricula(Aluno aluno)
         {
             alunos.Add(aluno);
-            this.dicionarioAlunos.Add(aluno.Matricula, aluno);
+            this.dicionarioAlunos.Add(aluno.NroMatricula, aluno);
         }
 
         private string instrutor;
+
+        internal void SubstituiAluno(Aluno aluno)
+        {
+            this.dicionarioAlunos[aluno.NroMatricula] = aluno;
+        }
 
         public string Instrutor
         {
